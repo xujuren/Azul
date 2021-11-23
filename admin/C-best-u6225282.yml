@@ -1,0 +1,29 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+#
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  I submit the work below for assessment as my best work. I declare that this
+  is entirely my own work, with the following documented exceptions:
+
+# Use this to list any code that you used that you did not write,
+# aside from code provided by the lecturer.  Provide a comment
+# explaining your use and the URL to that code and the licence for
+# that code
+
+# I completed task 2, 3, 5 and 7 for this part.
+# And after communication, we decided to submit code of Juren's and HongGic's due to the quality.
+# So I have no code submitted here. But I still save them in my own computer.
+
+
+
+  # sign *your* name and uid here
+name: Xindi Liu
+uid: u6225282
